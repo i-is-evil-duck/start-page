@@ -1,4 +1,4 @@
-# startpage
+# startpage FORKED FROM [GITLAB,COM/FAZZI/STARTPAGE](https://gitlab.com/fazzi/startpage)
 
 Yet another minimal startpage (now with multitheme!):
 - Font: SpaceMono Nerd Font
